@@ -1,1 +1,1 @@
-This is the test file for my Github project.
+This is the excerise file for my Github project.
