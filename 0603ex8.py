@@ -9,4 +9,4 @@ while True:
     an = a1 * (r ** n)
     n += 1
 
-print(f"{an} at position {n}")
+print(an, n)
